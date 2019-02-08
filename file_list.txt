@@ -1,0 +1,7 @@
+passwd
+PL01.pdf
+passwd
+myActions.c
+dados2
+readPeople.c
+person1.c
